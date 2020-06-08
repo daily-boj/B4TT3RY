@@ -9,7 +9,6 @@ import (
 )
 
 func main() {
-	start := time.Now()
 	scanner := bufio.NewScanner(os.Stdin)
 	scanner.Buffer(make([]byte, 10240000), 10240000)
 	repeat := 0
@@ -24,8 +23,6 @@ func main() {
 		fmt.Println(strings.Join(slice, ""))
 		slice = slice[:0]
 	}
-	elapsed := time.Since(start)
-	fmt.Printf("%s\n", elapsed)
 }
 
 func stringToArray(str *string, arr *[]string) {
