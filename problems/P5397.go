@@ -1,4 +1,4 @@
-package main
+package P5397
 
 import (
 	"bufio"
