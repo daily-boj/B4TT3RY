@@ -9,3 +9,4 @@
 |2020-06-11|<img src="https://static.solved.ac/tier_small/4.svg" title="Bronze II" height="15px"/> [수 뒤집기](https://www.acmicpc.net/problem/3062)|맞았습니다!!|[Kotlin](./problems/P3062.kt)|
 |2020-06-11|<img src="https://static.solved.ac/tier_small/9.svg" title="Silver II" height="15px"/> [소트 게임](https://www.acmicpc.net/problem/1327)|틀렸습니다|~~Kotlin~~|
 |2020-06-11|<img src="https://static.solved.ac/tier_small/6.svg" title="Silver V" height="15px"/> [한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422)|맞았습니다!!|[Kotlin](./problems/P2422.kt)|
+|2020-06-11|<img src="https://static.solved.ac/tier_small/6.svg" title="Silver V" height="15px"/> [트ㅏㅊ;](https://www.acmicpc.net/problem/4378)|맞았습니다!!|[Kotlin](./problems/P4378.kt)|
