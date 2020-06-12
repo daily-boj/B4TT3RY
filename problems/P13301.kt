@@ -1,4 +1,4 @@
-val cache: MutableMap<Long, Long> = HashMap()
+val cache13301: MutableMap<Long, Long> = HashMap()
 
 fun main() {
     val input = readLine()!!.toLong()
@@ -9,8 +9,8 @@ fun main() {
 
 fun fibonacci(num: Long): Long {
     if (num <= 1L) return num
-    if (cache[num] == null) {
-        cache[num] = fibonacci(num - 1) + fibonacci(num - 2)
+    if (cache13301[num] == null) {
+        cache13301[num] = fibonacci(num - 1) + fibonacci(num - 2)
     }
-    return cache[num] ?: 0L
+    return cache13301[num] ?: 0L
 }
