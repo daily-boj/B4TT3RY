@@ -14,3 +14,4 @@
 |2020-06-11|<img src="https://static.solved.ac/tier_small/5.svg" title="Bronze I" height="15px"/> [버그왕](https://www.acmicpc.net/problem/3447)|맞았습니다!!|[Kotlin](./problems/P3447.kt)|
 |2020-06-12|<img src="https://static.solved.ac/tier_small/5.svg" title="Bronze I" height="15px"/> [성 지키기](https://www.acmicpc.net/problem/1236)|맞았습니다!!|[Kotlin](./problems/P1236.kt)|
 |2020-06-12|<img src="https://static.solved.ac/tier_small/13.svg" title="Gold III" height="15px"/> [합](https://www.acmicpc.net/problem/1081)|틀렸습니다|~~Kotlin~~|
+|2020-06-12|<img src="https://static.solved.ac/tier_small/5.svg" title="Bronze I" height="15px"/> [그대로 출력하기 2](https://www.acmicpc.net/problem/11719)|맞았습니다!!|[Kotlin](./problems/P11719.kt)|
