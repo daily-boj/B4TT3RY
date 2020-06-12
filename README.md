@@ -1,6 +1,6 @@
 # @daily-boj/B4TT3RY
 
-데일리백준 하면서 해결한 문제 갯수: **11**/15개
+데일리백준 하면서 해결한 문제 갯수: **12**/16개
 
 |날짜|문제|결과|소스|
 |-|-|-|-|
@@ -19,3 +19,4 @@
 |2020-06-12|<img src="https://static.solved.ac/tier_small/5.svg" title="Bronze I" height="15px"/> [그대로 출력하기 2](https://www.acmicpc.net/problem/11719)|맞았습니다!!|[Kotlin](./problems/P11719.kt)|
 |2020-06-12|<img src="https://static.solved.ac/tier_small/5.svg" title="Bronze I" height="15px"/> [타일 장식물](https://www.acmicpc.net/problem/13301)|맞았습니다!!|[Kotlin](./problems/P13301.kt)|
 |2020-06-12|<img src="https://static.solved.ac/tier_small/8.svg" title="Silver III" height="15px"/> [파도반 수열](https://www.acmicpc.net/problem/9461)|맞았습니다!!|[Kotlin](./problems/P9461.kt)|
+|2020-06-12|<img src="https://static.solved.ac/tier_small/9.svg" title="Silver II" height="15px"/> [삼삼한 수 2](https://www.acmicpc.net/problem/17253)|맞았습니다!!|[Kotlin](./problems/P17253.kt)|
