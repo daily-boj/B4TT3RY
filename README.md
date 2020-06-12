@@ -12,3 +12,4 @@
 |2020-06-11|<img src="https://static.solved.ac/tier_small/6.svg" title="Silver V" height="15px"/> [트ㅏㅊ;](https://www.acmicpc.net/problem/4378)|맞았습니다!!|[Kotlin](./problems/P4378.kt)|
 |2020-06-11|<img src="https://static.solved.ac/tier_small/4.svg" title="Bronze II" height="15px"/> [2진수 8진수](https://www.acmicpc.net/problem/1373)|맞았습니다!!|[Kotlin](./problems/P1373.kt)|
 |2020-06-11|<img src="https://static.solved.ac/tier_small/5.svg" title="Bronze I" height="15px"/> [버그왕](https://www.acmicpc.net/problem/3447)|맞았습니다!!|[Kotlin](./problems/P3447.kt)|
+|2020-06-12|<img src="https://static.solved.ac/tier_small/5.svg" title="Bronze I" height="15px"/> [성 지키기](https://www.acmicpc.net/problem/1236)|맞았습니다!!|[Kotlin](./problems/P1236.kt)|
