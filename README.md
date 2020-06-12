@@ -16,3 +16,4 @@
 |2020-06-12|<img src="https://static.solved.ac/tier_small/13.svg" title="Gold III" height="15px"/> [합](https://www.acmicpc.net/problem/1081)|틀렸습니다|~~Kotlin~~|
 |2020-06-12|<img src="https://static.solved.ac/tier_small/5.svg" title="Bronze I" height="15px"/> [그대로 출력하기 2](https://www.acmicpc.net/problem/11719)|맞았습니다!!|[Kotlin](./problems/P11719.kt)|
 |2020-06-12|<img src="https://static.solved.ac/tier_small/5.svg" title="Bronze I" height="15px"/> [타일 장식물](https://www.acmicpc.net/problem/13301)|맞았습니다!!|[Kotlin](./problems/P13301.kt)|
+|2020-06-12|<img src="https://static.solved.ac/tier_small/8.svg" title="Silver III" height="15px"/> [파도반 수열](https://www.acmicpc.net/problem/9461)|맞았습니다!!|[Kotlin](./problems/P9461.kt)|
