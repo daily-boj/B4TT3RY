@@ -23,3 +23,4 @@
 |2020-06-13|<img src="https://static.solved.ac/tier_small/12.svg" title="Silver II" height="15px"/> [끝말잇기](https://www.acmicpc.net/problem/2320)|틀렸습니다|[Kotlin](./problems/P2320.kt)|
 |2020-06-13|<img src="https://static.solved.ac/tier_small/5.svg" title="Bronze I" height="15px"/> [뚊](https://www.acmicpc.net/problem/11383)|맞았습니다!!|[Kotlin](./problems/P11383.kt)|
 |2020-06-14|<img src="https://static.solved.ac/tier_small/1.svg" title="Bronze V" height="15px"/> [수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894)|맞았습니다!!|[Kotlin](./problems/P15894.kt)|
+|2020-06-14|<img src="https://static.solved.ac/tier_small/8.svg" title="Silver III" height="15px"/> [기상청 인턴 신현수](https://www.acmicpc.net/problem/2435)|맞았습니다!!|[Kotlin](./problems/P2435.kt)|
