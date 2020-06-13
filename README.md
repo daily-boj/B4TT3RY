@@ -21,3 +21,4 @@
 |2020-06-12|<img src="https://static.solved.ac/tier_small/8.svg" title="Silver III" height="15px"/> [파도반 수열](https://www.acmicpc.net/problem/9461)|맞았습니다!!|[Kotlin](./problems/P9461.kt)|
 |2020-06-13|<img src="https://static.solved.ac/tier_small/9.svg" title="Silver II" height="15px"/> [삼삼한 수 2](https://www.acmicpc.net/problem/17253)|맞았습니다!!|[Kotlin](./problems/P17253.kt)|
 |2020-06-13|<img src="https://static.solved.ac/tier_small/12.svg" title="Silver II" height="15px"/> [끝말잇기](https://www.acmicpc.net/problem/2320)|틀렸습니다|[Kotlin](./problems/P2320.kt)|
+|2020-06-13|<img src="https://static.solved.ac/tier_small/5.svg" title="Bronze I" height="15px"/> [뚊](https://www.acmicpc.net/problem/11383)|맞았습니다!!|[Kotlin](./problems/P11383.kt)|
