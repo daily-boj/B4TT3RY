@@ -1,6 +1,6 @@
 # @daily-boj/B4TT3RY
 
-데일리백준 하면서 해결한 문제 갯수: **16**/22개
+데일리백준 하면서 해결한 문제 갯수: **17**/22개
 
 ## 목차
 
@@ -10,7 +10,7 @@
 
 |날짜|문제|결과|소스|
 |-|-|-|-|
-|2020-06-08|<img src="https://static.solved.ac/tier_small/8.svg" title="Silver III" height="15px"/> [키로거](https://www.acmicpc.net/problem/5397)|시간 초과|[Go](./problems/P5397.go)|
+|~~2020-06-08~~|<img src="https://static.solved.ac/tier_small/8.svg" title="Silver III" height="15px"/> [~~키로거~~](https://www.acmicpc.net/problem/5397)|~~시간 초과~~ 해결|[~~Go~~](./problems/P5397.go)|
 |2020-06-09|<img src="https://static.solved.ac/tier_small/5.svg" title="Bronze I" height="15px"/> [동전 게임](https://www.acmicpc.net/problem/2684)|맞았습니다!!|[Kotlin](./problems/P2684.kt)|
 |2020-06-09|<img src="https://static.solved.ac/tier_small/7.svg" title="Silver IV" height="15px"/> [두 수의 합](https://www.acmicpc.net/problem/2684)|시간 초과|[Kotlin](./problems/P3273.kt)|
 |2020-06-10|<img src="https://static.solved.ac/tier_small/4.svg" title="Bronze II" height="15px"/> [팬들에게 둘러싸인 홍준](https://www.acmicpc.net/problem/14581)|맞았습니다!!|[Go](./problems/P14581.go)|
@@ -32,3 +32,4 @@
 |2020-06-14|<img src="https://static.solved.ac/tier_small/8.svg" title="Silver III" height="15px"/> [기상청 인턴 신현수](https://www.acmicpc.net/problem/2435)|맞았습니다!!|[Kotlin](./problems/P2435.kt)|
 |2020-06-15|<img src="https://static.solved.ac/tier_small/3.svg" title="Bronze III" height="15px"/> [전체 계산 횟수](https://www.acmicpc.net/problem/17174)|맞았습니다!!|[Kotlin](./problems/P17174.kt)|
 |2020-06-15|<img src="https://static.solved.ac/tier_small/9.svg" title="Silver II" height="15px"/> [완전 P제곱수](https://www.acmicpc.net/problem/4320)|틀렸습니다|~~Kotlin~~|
+|2020-06-15|<img src="https://static.solved.ac/tier_small/8.svg" title="Silver III" height="15px"/> [키로거](https://www.acmicpc.net/problem/5397)|맞았습니다!!|[Kotlin](./problems/P5397.kt)|
