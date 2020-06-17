@@ -33,5 +33,6 @@
 |2020-06-15|<img src="https://static.solved.ac/tier_small/3.svg" title="Bronze III" height="15px"/> [전체 계산 횟수](https://www.acmicpc.net/problem/17174)|맞았습니다!!|[Kotlin](./problems/P17174.kt)|
 |2020-06-15|<img src="https://static.solved.ac/tier_small/9.svg" title="Silver II" height="15px"/> [완전 P제곱수](https://www.acmicpc.net/problem/4320)|틀렸습니다|~~Kotlin~~|
 |2020-06-15|<img src="https://static.solved.ac/tier_small/8.svg" title="Silver III" height="15px"/> [키로거](https://www.acmicpc.net/problem/5397)|맞았습니다!!|[Kotlin](./problems/P5397.kt)|
-|2020-06-16|<img src="https://static.solved.ac/tier_small/4.svg" title="Bronze I" height="15px"/> [멀티버스 Ⅰ](https://www.acmicpc.net/problem/18868)|맞았습니다!!|[Kotlin](./problems/P18868.kt)|
+|2020-06-16|<img src="https://static.solved.ac/tier_small/5.svg" title="Bronze I" height="15px"/> [멀티버스 Ⅰ](https://www.acmicpc.net/problem/18868)|맞았습니다!!|[Kotlin](./problems/P18868.kt)|
 |2020-06-16|<img src="https://static.solved.ac/tier_small/3.svg" title="Bronze III" height="15px"/> [사탕 선생 고창영](https://www.acmicpc.net/problem/2547)|틀렸습니다|[Kotlin](./problems/P2547.kt)|
+|2020-06-16|<img src="https://static.solved.ac/tier_small/4.svg" title="Bronze II" height="15px"/> [변수명](https://www.acmicpc.net/problem/16205)|맞았습니다!!|[Kotlin](./problems/P16205.kt)|
