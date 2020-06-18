@@ -1,6 +1,6 @@
 # @daily-boj/B4TT3RY
 
-데일리백준 하면서 해결한 문제 갯수: **21**/27개
+데일리백준 하면서 해결한 문제 갯수: **22**/28개
 
 ## 목차
 
@@ -38,3 +38,4 @@
 |2020-06-17|<img src="https://static.solved.ac/tier_small/4.svg" title="Bronze II" height="15px"/> [변수명](https://www.acmicpc.net/problem/16205)|맞았습니다!!|[Kotlin](./problems/P16205.kt)|
 |2020-06-17|<img src="https://static.solved.ac/tier_small/7.svg" title="Silver IV" height="15px"/> [출력 형식이 잘못되었습니다](https://www.acmicpc.net/problem/5177)|맞았습니다!!|[Kotlin](./problems/P5177.kt)|
 |2020-06-18|<img src="https://static.solved.ac/tier_small/4.svg" title="Bronze II" height="15px"/> [과제 안 내신 분..?](https://www.acmicpc.net/problem/5597)|맞았습니다!!|[Kotlin](./problems/P5597.kt)|
+|2020-06-18|<img src="https://static.solved.ac/tier_small/8.svg" title="Silver III" height="15px"/> [30번](https://www.acmicpc.net/problem/13116)|맞았습니다!!|[Kotlin](./problems/P13116.kt)|
