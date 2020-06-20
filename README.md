@@ -40,3 +40,5 @@
 |2020-06-18|<img src="https://static.solved.ac/tier_small/4.svg" title="Bronze II" height="15px"/> [과제 안 내신 분..?](https://www.acmicpc.net/problem/5597)|맞았습니다!!|[Kotlin](./problems/P5597.kt)|
 |2020-06-18|<img src="https://static.solved.ac/tier_small/8.svg" title="Silver III" height="15px"/> [30번](https://www.acmicpc.net/problem/13116)|맞았습니다!!|[Kotlin](./problems/P13116.kt)|
 |2020-06-19|<img src="https://static.solved.ac/tier_small/4.svg" title="Bronze II" height="15px"/> [엘프의 검](https://www.acmicpc.net/problem/4436)|맞았습니다!!|[Kotlin](./problems/P4436.kt)|
+|2020-06-19|<img src="https://static.solved.ac/tier_small/4.svg" title="Bronze II" height="15px"/> [엘프의 검](https://www.acmicpc.net/problem/4436)|맞았습니다!!|[Kotlin](./problems/P4436.kt)|
+|2020-06-20|<img src="https://static.solved.ac/tier_small/12.svg" title="Gold IV" height="15px"/> [겹치는 선분](https://www.acmicpc.net/problem/1689)|맞았습니다!!|[Kotlin](./problems/P1689.kt)|
