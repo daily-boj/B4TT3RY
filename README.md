@@ -1,6 +1,6 @@
 # @daily-boj/B4TT3RY
 
-데일리백준 하면서 해결한 문제 갯수: **26**/33개
+데일리백준 하면서 해결한 문제 갯수: **26**/34개
 
 ## 목차
 
@@ -46,3 +46,4 @@
 |2020-06-21|<img src="https://static.solved.ac/tier_small/9.svg" title="Silver II" height="15px"/> [5차 전직](https://www.acmicpc.net/problem/16112)|시간 초과|[Kotlin](./problems/P16112.kt)|
 |2020-06-22|<img src="https://static.solved.ac/tier_small/3.svg" title="Bronze III" height="15px"/> [크냐?](https://www.acmicpc.net/problem/4101)|맞았습니다!!|[Kotlin](./problems/P4101.kt)|
 |2020-06-22|<img src="https://static.solved.ac/tier_small/9.svg" title="Silver II" height="15px"/> [신나는 함수 실행](https://www.acmicpc.net/problem/9184)|맞았습니다!!|[Kotlin](./problems/P9184.kt)|
+|2020-06-22|<img src="https://static.solved.ac/tier_small/14.svg" title="Gold II" height="15px"/> [5](https://www.acmicpc.net/problem/3165)|메모리 초과|~~Kotlin~~|
