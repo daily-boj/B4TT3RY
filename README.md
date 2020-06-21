@@ -42,3 +42,4 @@
 |2020-06-19|<img src="https://static.solved.ac/tier_small/4.svg" title="Bronze II" height="15px"/> [엘프의 검](https://www.acmicpc.net/problem/4436)|맞았습니다!!|[Kotlin](./problems/P4436.kt)|
 |2020-06-19|<img src="https://static.solved.ac/tier_small/4.svg" title="Bronze II" height="15px"/> [엘프의 검](https://www.acmicpc.net/problem/4436)|맞았습니다!!|[Kotlin](./problems/P4436.kt)|
 |2020-06-20|<img src="https://static.solved.ac/tier_small/12.svg" title="Gold IV" height="15px"/> [겹치는 선분](https://www.acmicpc.net/problem/1689)|맞았습니다!!|[Kotlin](./problems/P1689.kt)|
+|2020-06-21|<img src="https://static.solved.ac/tier_small/4.svg" title="Bronze II" height="15px"/> [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)|맞았습니다!!|[Kotlin](./problems/P2869.kt)|
