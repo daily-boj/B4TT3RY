@@ -48,3 +48,4 @@
 |2020-06-22|<img src="https://static.solved.ac/tier_small/9.svg" title="Silver II" height="15px"/> [신나는 함수 실행](https://www.acmicpc.net/problem/9184)|맞았습니다!!|[Kotlin](./problems/P9184.kt)|
 |2020-06-22|<img src="https://static.solved.ac/tier_small/14.svg" title="Gold II" height="15px"/> [5](https://www.acmicpc.net/problem/3165)|메모리 초과|~~Kotlin~~|
 |2020-06-23|<img src="https://static.solved.ac/tier_small/4.svg" title="Bronze II" height="15px"/> [닉네임에 갓 붙이기](https://www.acmicpc.net/problem/13163)|맞았습니다!!|[Kotlin](./problems/P13163.kt)|
+|2020-06-23|<img src="https://static.solved.ac/tier_small/10.svg" title="Silver I" height="15px"/> [A → B](https://www.acmicpc.net/problem/16953)|맞았습니다!!|[Kotlin](./problems/P16953.kt)|
