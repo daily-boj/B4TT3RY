@@ -1,0 +1,1 @@
+fun main() = System.`in`.bufferedReader().readLines().drop(1).filter { it.trim().isNotEmpty() }.joinToString("\n") { "god" + it.split(" ").drop(1).joinToString("") }.let(::println)
