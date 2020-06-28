@@ -1,10 +1,10 @@
 # @daily-boj/B4TT3RY
 
-데일리백준 하면서 해결한 문제 갯수: **31**/39개
+데일리백준 하면서 해결한 문제 갯수: **32**/40개
 
 ## 목차
 
-- [2020년 6월 (31/39개)](#2020년-6월)
+- [2020년 6월 (32/40개)](#2020년-6월)
 - [2020년 7월](#2020년-7월)
 
 ## 2020년 6월
@@ -52,6 +52,7 @@
 |2020-06-24|<img src="https://static.solved.ac/tier_small/5.svg" title="Bronze I" height="15px"/> [단어 퍼즐](https://www.acmicpc.net/problem/9946)|맞았습니다!!|[Kotlin](./problems/P9946.kt)|
 |2020-06-25|<img src="https://static.solved.ac/tier_small/4.svg" title="Bronze II" height="15px"/> [도비의 영어 공부](https://www.acmicpc.net/problem/2386)|맞았습니다!!|[Kotlin](./problems/P2386.kt)|
 |2020-06-26|<img src="https://static.solved.ac/tier_small/3.svg" title="Bronze III" height="15px"/> [오각형, 오각형, 오각형…](https://www.acmicpc.net/problem/1964)|맞았습니다!!|[Kotlin](./problems/P1964.kt)|
+|2020-06-29|<img src="https://static.solved.ac/tier_small/5.svg" title="Bronze III" height="15px"/> [걷기](https://www.acmicpc.net/problem/1459)|맞았습니다!!|[Kotlin](./problems/P1459.kt)|
 
 ## 2020년 7월
 
