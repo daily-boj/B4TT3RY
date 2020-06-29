@@ -1,0 +1,1 @@
+fun main() = System.`in`.bufferedReader().lineSequence().joinToString("\n") { it.split(" ").map { n -> n.toInt() }.sum().toString() }.let(::println)
