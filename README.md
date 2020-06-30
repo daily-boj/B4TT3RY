@@ -54,7 +54,7 @@
 |2020-06-26|<img src="https://static.solved.ac/tier_small/3.svg" title="Bronze III" height="15px"/> [오각형, 오각형, 오각형…](https://www.acmicpc.net/problem/1964)|맞았습니다!!|[Kotlin](./problems/P1964.kt)|
 |2020-06-29|<img src="https://static.solved.ac/tier_small/5.svg" title="Bronze I" height="15px"/> [걷기](https://www.acmicpc.net/problem/1459)|맞았습니다!!|[Kotlin](./problems/P1459.kt)|
 |2020-06-29|<img src="https://static.solved.ac/tier_small/3.svg" title="Bronze III" height="15px"/> [A+B - 4](https://www.acmicpc.net/problem/10951)|맞았습니다!!|[Kotlin](./problems/P10951.kt)|
-|2020-06-29|<img src="https://static.solved.ac/tier_small/5.svg" title="Bronze I" height="15px"/> [귀여운 수~ε٩(๑> ₃ <)۶з](https://www.acmicpc.net/problem/17294)|맞았습니다!!|[Kotlin](./problems/P17294.kt)|
+|2020-06-30|<img src="https://static.solved.ac/tier_small/5.svg" title="Bronze I" height="15px"/> [귀여운 수~ε٩(๑> ₃ <)۶з](https://www.acmicpc.net/problem/17294)|맞았습니다!!|[Kotlin](./problems/P17294.kt)|
 
 ## 2020년 7월
 
