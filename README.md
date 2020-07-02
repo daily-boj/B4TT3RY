@@ -1,11 +1,11 @@
 # @daily-boj/B4TT3RY
 
-데일리백준 하면서 해결/시도한 문제 갯수: **35**/43개
+데일리백준 하면서 해결/시도한 문제 갯수: **36**/44개
 
 ## 목차
 
 - [2020년 6월 (34/42개)](#2020년-6월)
-- [2020년 7월 (1/1개)](#2020년-7월)
+- [2020년 7월 (2/2개)](#2020년-7월)
 
 ## 2020년 6월
 
@@ -61,3 +61,4 @@
 |날짜|문제|결과|소스|
 |-|-|-|-|
 |2020-07-01|<img src="https://static.solved.ac/tier_small/5.svg" title="Bronze I" height="15px"/> [행렬 곱셈](https://www.acmicpc.net/problem/2740)|맞았습니다!!|[Kotlin](./problems/P2740.kt)|
+|2020-07-02|<img src="https://static.solved.ac/tier_small/5.svg" title="Bronze I" height="15px"/> [if](https://www.acmicpc.net/problem/15549)|맞았습니다!!|[Text](./problems/P15549.txt)|
