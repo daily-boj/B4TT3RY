@@ -62,3 +62,4 @@
 |-|-|-|-|
 |2020-07-01|<img src="https://static.solved.ac/tier_small/5.svg" title="Bronze I" height="15px"/> [행렬 곱셈](https://www.acmicpc.net/problem/2740)|맞았습니다!!|[Kotlin](./problems/P2740.kt)|
 |2020-07-02|<img src="https://static.solved.ac/tier_small/5.svg" title="Bronze I" height="15px"/> [if](https://www.acmicpc.net/problem/15549)|맞았습니다!!|[Text](./problems/P15549.txt)|
+|2020-07-03|<img src="https://static.solved.ac/tier_small/2.svg" title="Bronze IV" height="15px"/> [수학은 체육과목 입니다 2](https://www.acmicpc.net/problem/17362)|맞았습니다!!|[Kotlin](./problems/P17362.kt)|
