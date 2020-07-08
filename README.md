@@ -1,11 +1,11 @@
 # @daily-boj/B4TT3RY
 
-데일리백준 하면서 해결/시도한 문제 갯수: **39**/47개
+데일리백준 하면서 해결/시도한 문제 갯수: **40**/48개
 
 ## 목차
 
 - [2020년 6월 (34/42개)](#2020년-6월)
-- [2020년 7월 (5/5개)](#2020년-7월)
+- [2020년 7월 (6/6개)](#2020년-7월)
 
 ## 2020년 6월
 
@@ -65,3 +65,4 @@
 |2020-07-03|<img src="https://static.solved.ac/tier_small/2.svg" title="Bronze IV" height="15px"/> [수학은 체육과목 입니다 2](https://www.acmicpc.net/problem/17362)|맞았습니다!!|[Kotlin](./problems/P17362.kt)|
 |2020-07-06|<img src="https://static.solved.ac/tier_small/5.svg" title="Bronze I" height="15px"/> [6174](https://www.acmicpc.net/problem/9047)|맞았습니다!!|[Kotlin](./problems/P9047.kt)|
 |2020-07-07|<img src="https://static.solved.ac/tier_small/5.svg" title="Bronze I" height="15px"/> [반올림](https://www.acmicpc.net/problem/2033)|맞았습니다!!|[Kotlin](./problems/P2033.kt)|
+|2020-07-08|<img src="https://static.solved.ac/tier_small/5.svg" title="Bronze I" height="15px"/> [초성 변환](https://www.acmicpc.net/problem/12090)|맞았습니다!!|[Kotlin](./problems/P12090.kt)|
