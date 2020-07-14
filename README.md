@@ -1,11 +1,11 @@
 # @daily-boj/B4TT3RY
 
-해결/시도한 문제 갯수: **41**/49개
+해결/시도한 문제 갯수: **41**/50개
 
 ## 목차
 
 - [2020년 6월 (34/42개)](#2020년-6월)
-- [2020년 7월 (7/7개)](#2020년-7월)
+- [2020년 7월 (7/8개)](#2020년-7월)
 
 ## 2020년 6월
 
@@ -67,3 +67,4 @@
 |2020-07-07|<img src="https://static.solved.ac/tier_small/5.svg" title="Bronze I" height="15px"/> [반올림](https://www.acmicpc.net/problem/2033)|맞았습니다!!|[Kotlin](./problems/P2033.kt)|
 |2020-07-08|<img src="https://static.solved.ac/tier_small/5.svg" title="Bronze I" height="15px"/> [초성 변환](https://www.acmicpc.net/problem/12090)|맞았습니다!!|[Kotlin](./problems/P12090.kt)|
 |2020-07-10|<img src="https://static.solved.ac/tier_small/5.svg" title="Bronze I" height="15px"/> [ATM놀이](https://www.acmicpc.net/problem/7481)|맞았습니다!!|[Kotlin](./problems/P7481.kt)|
+|2020-07-14|<img src="https://static.solved.ac/tier_small/4.svg" title="Bronze II" height="15px"/> [미국 스타일](https://www.acmicpc.net/problem/2712)|틀렸습니다|[Kotlin](./problems/P2712.kt)|
