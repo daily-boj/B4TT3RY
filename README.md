@@ -67,5 +67,5 @@
 |2020-07-07|<img src="https://static.solved.ac/tier_small/5.svg" title="Bronze I" height="15px"/> [반올림](https://www.acmicpc.net/problem/2033)|맞았습니다!!|[Kotlin](./problems/P2033.kt)|
 |2020-07-08|<img src="https://static.solved.ac/tier_small/5.svg" title="Bronze I" height="15px"/> [초성 변환](https://www.acmicpc.net/problem/12090)|맞았습니다!!|[Kotlin](./problems/P12090.kt)|
 |2020-07-10|<img src="https://static.solved.ac/tier_small/5.svg" title="Bronze I" height="15px"/> [ATM놀이](https://www.acmicpc.net/problem/7481)|맞았습니다!!|[Kotlin](./problems/P7481.kt)|
-|2020-07-14|<img src="https://static.solved.ac/tier_small/4.svg" title="Bronze II" height="15px"/> [미국 스타일](https://www.acmicpc.net/problem/2712)|틀렸습니다|[Kotlin](./problems/P2712.kt)|
-|2020-07-14|<img src="https://static.solved.ac/tier_small/10.svg" title="Silver I" height="15px"/> [역팩토리얼](https://www.acmicpc.net/problem/13294)|시간 초과|[Kotlin](./problems/P13294.kt)|
+|2020-07-14|<img src="https://static.solved.ac/tier_small/4.svg" title="Bronze II" height="15px"/> [미국 스타일](https://www.acmicpc.net/problem/2712)|**틀렸습니다**|[Kotlin](./problems/P2712.kt)|
+|2020-07-14|<img src="https://static.solved.ac/tier_small/10.svg" title="Silver I" height="15px"/> [역팩토리얼](https://www.acmicpc.net/problem/13294)|**시간 초과**|[Kotlin](./problems/P13294.kt)|
